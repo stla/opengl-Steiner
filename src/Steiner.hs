@@ -13,7 +13,7 @@ import System.IO.Unsafe
 import Text.Printf
 
 n :: [Int]
-n = [5, 4, 3]
+n = [3, 4, 5]
 
 white, black, red :: Color4 GLfloat
 white = Color4 1 1 1 1

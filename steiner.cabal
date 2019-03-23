@@ -2,13 +2,12 @@ name:                steiner
 version:             0.1.0.0
 -- synopsis:
 -- description:
-homepage:            https://github.com/githubuser/steiner#readme
-license:             BSD3
-license-file:        LICENSE
-author:              Author name here
-maintainer:          example@example.com
-copyright:           2019 Author name here
-category:            Web
+homepage:            https://github.com/stla/opengl-Steiner#readme
+license:             GPL-3
+author:              Stéphane Laurent
+maintainer:          laurent_step@yahoo.fr
+copyright:           2019 Stéphane Laurent
+category:            Graphics
 build-type:          Simple
 extra-source-files:  README.md
 cabal-version:       >=1.10
@@ -29,4 +28,4 @@ library
 
 source-repository head
   type:     git
-  location: https://github.com/githubuser/steiner
+  location: https://github.com/stla/opengl-Steiner
