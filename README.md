@@ -1,3 +1,8 @@
-![gfycat](https://thumbs.gfycat.com/WarlikeFailingBeauceron-size_restricted.gif)
+# Nested Steiner chains with Haskell OpenGL
 
-![gfycat](https://thumbs.gfycat.com/FittingBasicHornshark-size_restricted.gif)
+___
+
+![](gallery/steiner1.gif)
+
+![](gallery/steiner2.gif)
+
